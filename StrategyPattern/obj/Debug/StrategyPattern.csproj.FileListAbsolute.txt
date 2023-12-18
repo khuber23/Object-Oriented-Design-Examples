@@ -1,0 +1,10 @@
+C:\Users\cdpay\OneDrive\Documents\7.2 Strategy LastName\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\cdpay\OneDrive\Documents\7.2 Strategy LastName\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\7.2 Strategy Huber\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\7.2 Strategy Huber\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\7.2 Strategy Huber\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\7.2 Strategy Huber\StrategyPattern\obj\Debug\StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\7.2 Strategy Huber\StrategyPattern\obj\Debug\StrategyPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\7.2 Strategy Huber\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\7.2 Strategy Huber\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\7.2 Strategy Huber\StrategyPattern\obj\Debug\StrategyPattern.pdb
